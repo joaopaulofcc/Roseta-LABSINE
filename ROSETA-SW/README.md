@@ -5,7 +5,7 @@ Repository containing (1) scripts for quality analysis of cipher systems of eSTR
 
 ### Analysis scripts
 
-<img align="center" width="120" height="178" title="Schema of Analysis script" src="./analysisSchema.png">
+<img align="center" title="Schema of Analysis script" src="../analysisSW-schema.png">
 
 The analysis system implemented in Matlab can be used by means of command lines or by graphical interface.
 
