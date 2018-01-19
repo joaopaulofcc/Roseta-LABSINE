@@ -4,7 +4,7 @@ Scripts for quality analysis of cipher systems of eSTREAM Profile II algorithms.
 developed with the help of the Matlab R2015a tool. These scripts are capable of performing the encryption / decryption process, as well
 as calculating the established metrics. The numerical results of the runs are saved in ".csv" files for further statistical synthesis.
 
-<img align="center" title="Schema of Analysis script" src="../analysisSW-schema.png">
+<img align="center" title="Schema of Analysis script." src="../analysisSW-schema.png">
 
 
 ## Folder structure
@@ -25,7 +25,7 @@ This folder is ordained as follows
 
 The analysis system implemented in Matlab can be used by means of command line or by graphical interface.
 
-## Command line
+### Command line
 
 ```
 runAnalysis(imagePath, camIndex, resolution, resize, color, generator, baud, com, reset, keystreamFileName, keystreamSensitivityFileName, Key, IV, samples, verbose, csv, csvFileName, seedIN, name)
@@ -87,3 +87,9 @@ Capturing a new image using webcam device with 640x480 pixels of resolution and 
 ```
 [paths, entropyOUT, intensityOUT, correlationOUT] = runAnalysis([], 1, '640x480', [], 'rgb', 'mickey', [], [], 1, [], '00000000000000000000', '00000000000000000000', 5000, 1, 1, 'teste', ['seeds/seed_1.mat'], 'teste');
 ```
+
+### Graphical user interface - GUI
+
+To use the analysis platform by means of the graphical interface, execute the 'guiPrincipal.m' file with Matlab. The most important options in the command line execution mode are present in the GUI, so the functionality of each of the parameters remains unchanged.
+
+<img align="center" title="Example of GUI execution." src="../guiAnalysis.png">
