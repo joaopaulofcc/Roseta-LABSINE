@@ -11,15 +11,15 @@ as calculating the established metrics. The numerical results of the runs are sa
 
 This folder is ordained as follows
 
-* **datasets:**
+* **datasets:** contains the selected images from the USC-SIPI dataset.
 
-* **executions:**
+* **executions:** each execution of the script generates an individual folder with the results obtained.
 
-* **scripts:**
+* **scripts:** where all the auxiliary scripts are stored.
 
-* **seeds:**
+* **seeds:** contains the seeds used in the execution of the tests reported in the final master's work.
 
-* **statistics:**
+* **statistics:** contains .csv files with the values of each metric (column) for each run (line) of each encryption algorithm.
 
 ## Executing
 
