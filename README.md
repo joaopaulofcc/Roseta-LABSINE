@@ -1,6 +1,6 @@
 # Roseta-LABSINE
   
-Repository containing (1) scripts for quality analysis of cipher systems of eSTREAM Profile II algorithms (2) VHDL files of eSTREAM systems hardware implementation. All files contained here were developed during the master's degree in Computer Science at the Federal University of Lavras (UFLA).
+Repository containing: **(1)** scripts for quality analysis of cipher systems of eSTREAM Profile II algorithms and **(2)** VHDL files of eSTREAM systems hardware implementation. All files contained here were developed during the master's degree in Computer Science at the Federal University of Lavras (UFLA).
   
 <img align="right" width="150" height="75" src="./logoDCC.jpg">  <img align="right" width="182" height="70" src="./logoLABSINE.png"><img align="right"  width="160" height="65" src="./logoUFLA.jpg">
 
