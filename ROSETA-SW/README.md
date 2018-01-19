@@ -1,13 +1,15 @@
-# Roseta-LABSINE
-Repository containing (1) scripts for quality analysis of cipher systems of eSTREAM Profile II algorithms (2) VHDL files of eSTREAM systems hardware implementation. All files contained here were developed during the master's degree in Computer Science at the Federal University of Lavras (UFLA).
+# Analysis scripts
 
-## Executing
-
-### Analysis scripts
+scripts for quality analysis of cipher systems of eSTREAM Profile II algorithms
 
 <img align="center" title="Schema of Analysis script" src="../analysisSW-schema.png">
 
-The analysis system implemented in Matlab can be used by means of command lines or by graphical interface.
+
+## Executing
+
+The analysis system implemented in Matlab can be used by means of command line or by graphical interface.
+
+## Command line
 
 ```
 runAnalysis(imagePath, camIndex, resolution, resize, color, generator, baud, com, reset, keystreamFileName, keystreamSensitivityFileName, Key, IV, samples, verbose, csv, csvFileName, seedIN, name)
