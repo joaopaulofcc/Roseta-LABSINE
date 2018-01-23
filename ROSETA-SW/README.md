@@ -92,4 +92,4 @@ Capturing a new image using webcam device with 640x480 pixels of resolution and 
 
 To use the analysis platform by means of the graphical interface, execute the 'guiPrincipal.m' file with Matlab. The most important options in the command line execution mode are present in the GUI, so the functionality of each of the parameters remains unchanged.
 
-<img align="center" title="Example of GUI execution." src="../guiAnalysis.png">
+<img align="center" title="Example of GUI execution." src="../img/guiAnalysis.png">
