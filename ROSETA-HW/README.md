@@ -15,7 +15,7 @@ This folder is ordained as follows
 
 This hardware system is composed of the following subsystems:
 
-<img  align="right" width="385" height="338" title="ROSETA Hardware Schema." src="./ROSETA-HW/img/rosetaHW.png">
+<img  align="right" width="385" height="338" title="ROSETA Hardware Schema." src="./img/rosetaHW.png">
 
 ### **ROSETA** 
 
