@@ -30,7 +30,7 @@ The three cryptographic systems were developed in FPGA, in addition to a hardwar
   - **N:** requests the generation of 76,800 pseudorandom bits.
 
 <p align="center">
-  <img width="610" height="386" title="ROSETA Finite State Machine." src="./ROSETA-HW/img/fsmRoseta.png">
+  <img width="610" height="386" title="ROSETA Finite State Machine." src="./img/fsmRoseta.png">
 </p>
 
 ---
@@ -39,7 +39,7 @@ The three cryptographic systems were developed in FPGA, in addition to a hardwar
 
 Hardware that represents the TRIVIUM encryption system, it consists of two blocks: 
 
-<img  align="right" width="520" height="252" title="ROSETA Hardware Schema." src="./ROSETA-HW/img/TRIVIUM.png">
+<img  align="right" width="520" height="252" title="ROSETA Hardware Schema." src="./img/TRIVIUM.png">
 
 - **TopLevel:** is the main module for generator control, it is responsible for the reset and initialization process. In addition, it is through this that the request of generation of pseudorandom bits to the generator module "TRIVIUM_Generator" occurs.
 
@@ -51,7 +51,7 @@ Hardware that represents the TRIVIUM encryption system, it consists of two block
  
 Hardware that represents the Grain v1 encryption system, it consists of two blocks: 
 
-<img  align="right" width="520" height="252" title="ROSETA Hardware Schema." src="./ROSETA-HW/img/GRAIN.png">
+<img  align="right" width="520" height="252" title="ROSETA Hardware Schema." src="./img/GRAIN.png">
 
 - **TopLevel:** the main module for controlling the generator is responsible for the reset and initialization process. In addition, it is through this that the request of generation of pseudorandom bits to the generator module "GRAIN_Generator" occurs.
 
@@ -63,7 +63,7 @@ Hardware that represents the Grain v1 encryption system, it consists of two bloc
  
 Hardware that represents the MICKEY 2.0 encryption system, it consists of the blocks:
 
-<img  align="right" width="521" height="260" title="ROSETA Hardware Schema." src="./ROSETA-HW/img/MICKEY.png">
+<img  align="right" width="521" height="260" title="ROSETA Hardware Schema." src="./img/MICKEY.png">
 
 - **TopLevel:** the main module for controlling the generator is responsible for the reset and initialization process. In addition, it is through this that the request of generation of pseudorandom bits to the generator module "MICKEY_Generator" occurs.
 
