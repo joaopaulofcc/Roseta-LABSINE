@@ -14,7 +14,7 @@ Repository containing: **(1)** scripts for quality analysis of cipher systems of
 
 * **Laboratory:** [Intelligent and Embedded Systems Laboratory - LABSINE](https://www.linkedin.com/company/labsine)
 
-* **University:** [Federal University of Lavras (Universide Federal de Lavras - UFLA), Lavras - MG - Brazil](http://www.ufla.br)
+* **University:** [Federal University of Lavras (Universidade Federal de Lavras - UFLA), Lavras - MG - Brazil](http://www.ufla.br)
 
 
 
