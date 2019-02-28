@@ -12,6 +12,8 @@ Repository containing: **(1)** scripts for quality analysis of cipher systems of
 
 * **Advisor:** [Wilian Soares Lacerda](https://www.researchgate.net/profile/Wilian_Lacerda)
 
+* **Co-advisor:** [Bruno de Abreu Silva](https://www.researchgate.net/profile/Bruno_Silva153)
+
 * **Laboratory:** [Intelligent and Embedded Systems Laboratory - LABSINE](https://www.linkedin.com/company/labsine)
 
 * **University:** [Federal University of Lavras (Universidade Federal de Lavras - UFLA), Lavras - MG - Brazil](http://www.ufla.br)
