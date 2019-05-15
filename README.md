@@ -6,7 +6,7 @@ Repository containing: **(1)** scripts for quality analysis of cipher systems of
 
 ## Project details
 
-* **Name:** Analysis of eSTREAM Profile II Ciphers for Image Encryption
+* **Name:** [Analysis of eSTREAM Profile II Ciphers for Image Encryption](http://repositorio.ufla.br/handle/1/28655)
 
 * **Student:** [João Paulo Fernandes de Cerqueira César](https://www.researchgate.net/profile/Joao_Paulo_Fernandes_De_Cerqueira_Cesar)
 
