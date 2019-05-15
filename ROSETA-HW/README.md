@@ -7,7 +7,7 @@ The configuration of the parameters and the choice of which system will be used 
 
 This folder is ordained as follows
 
-* **ModelSim OK:** implementations validated in the Altera ModelSim tool, with keystream results validated with the software implementations made available by the authors (http://www.ecrypt.eu.org/stream/) e no site "A security site" (https://asecuritysite.com/encryption/)
+* **ModelSim OK:** implementations validated in the Altera ModelSim tool, with keystream results validated with the software implementations made available by the authors (http://www.ecrypt.eu.org/stream/) and on the website "A security site" (https://asecuritysite.com/encryption/)
 
 * **Synthesis OK:** implementations after synthesis in the DE2 prototyping platform. The operation was correct, but the simulation presented erroneous values, unlike the test done with serial communication with the analysis platform implemented in Matlab.
 
