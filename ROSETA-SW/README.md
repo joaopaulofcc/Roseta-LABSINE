@@ -1,7 +1,7 @@
 # Analysis scripts
 
 Scripts for quality analysis of cipher systems of eSTREAM Profile II algorithms. To make the analysis process automated, scripts were
-developed with the help of the Matlab R2015a tool. These scripts are capable of performing the encryption / decryption process, as well
+developed with the help of the Matlab tool. These scripts are capable of performing the encryption / decryption process, as well
 as calculating the established metrics. The numerical results of the runs are saved in ".csv" files for further statistical synthesis.
 
 <img align="center" title="Schema of Analysis script." src="../img/analysisSW-schema.png">
